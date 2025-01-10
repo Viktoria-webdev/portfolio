@@ -234,11 +234,11 @@
         padding: 0;
     }
     .top__title {
-        font-size: 42px;
+        font-size: 36px;
         margin-bottom: 10px;
     }
     .top__title span:nth-child(2){
-        font-size: 32px;
+        font-size: 28px;
     }
     .top__subtitle {
         font-size: 20px;
@@ -254,10 +254,10 @@
         padding-bottom: 0;
     }
     .top__title {
-        font-size: 36px;
+        font-size: 28px;
     }
     .top__title span:nth-child(2){
-        font-size: 28px;
+        font-size: 24px;
     }
     .top__subtitle {
         font-size: 20px;
